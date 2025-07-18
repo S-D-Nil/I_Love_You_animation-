@@ -164,3 +164,22 @@ h2 {
 
   font-style: normal;
 }
+.about {
+
+position: absolute;
+  bottom: 20px;
+  left: 85px;
+	height: 20vh;
+  width: 100%;
+
+}
+
+.bx {
+
+	color: #fff;
+
+	margin: 25px;
+
+	font-size: 35px;
+
+}
