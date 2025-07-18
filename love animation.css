@@ -167,9 +167,9 @@ h2 {
 .about {
 
 position: absolute;
-  bottom: 20px;
+  bottom: 25px;
   left: 85px;
-	height: 20vh;
+	height: 50px;
   width: 100%;
 
 }
