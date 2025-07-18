@@ -110,7 +110,7 @@ body {
   text-decoration: underline;
 
   cursor: default;
-  z-index:
+  z-index: 3;
 
 }
 
